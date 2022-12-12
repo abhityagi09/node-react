@@ -1,12 +1,3 @@
-
-<p align="center">
-    <a href="https://cloud.ibm.com">
-    <img src="https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg" alt="IBM Cloud">
-    </a>
-    <img src="https://img.shields.io/badge/platform-node-lightgrey.svg?style=flat" alt="platform">
-    <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
-</p>
-
 # Create and deploy a Node.js React application
 
 React is a popular framework for creating user interfaces in modular components. In this sample application, you will create a web application using Express and React to serve web pages in Node.js, complete with standard best practices, including a health check and application metric monitoring.
@@ -108,9 +99,5 @@ When deploying to production, it is best practice to configure sessions to be st
 * Learn more about augmenting your Node.js applications on IBM Cloud with the [Node Programming Guide](https://cloud.ibm.com/docs/node?topic=nodejs-getting-started).
 * Explore other [sample applications](https://cloud.ibm.com/developer/appservice/starter-kits) on IBM Cloud.
 
-## License
-
-This sample application is licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
-
-[Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
+EAN)
 
